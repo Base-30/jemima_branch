@@ -1,4 +1,8 @@
 # jemima_branch
 
 
-je ne considere pas le header et le footer vu que Emmanuel n'a pas encore fini sa partie.
+j'ai modifier le blog grid de la page principal
+
+j'ai ajouter d'autre fichier dans assets  et admin assets
+j'ai fait les pages qu'on m'a demander 
+
